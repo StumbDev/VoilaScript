@@ -1,6 +1,6 @@
 {
   "name": "voilascript",
-  "version": "0.2.12-vyne2voila",
+  "version": "0.2.13-vyne2voila",
   "description": "The evolution of VyneLang",
   "main": "main.js",
   "module": "./lib/lib.js",
