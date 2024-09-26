@@ -3,6 +3,7 @@
   "version": "0.2.12-vyne2voila",
   "description": "The evolution of VyneLang",
   "main": "main.js",
+  "module": "./lib/lib.js",
   "repository": "https://github.com/StumbDev/VoilaScript.git",
   "author": "StumbDev <stumbledeveloper@hotmail.com>",
   "license": "MIT",
