@@ -1,0 +1,20 @@
+{
+  "name": "voilascript",
+  "version": "0.2.12-vyne2voila",
+  "description": "The evolution of VyneLang",
+  "main": "main.js",
+  "repository": "https://github.com/StumbDev/VoilaScript.git",
+  "author": "StumbDev <stumbledeveloper@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "chalk": "^5.3.0",
+    "gulp": "^5.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^3.0.0",
+    "pkg": "^5.8.1",
+    "typescript": "^5.6.2",
+    "wabt": "^1.0.36"
+  }
+}
